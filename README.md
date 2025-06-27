@@ -35,14 +35,14 @@
 
 #### 🎓 IBM Data Science – Individual Course Certificates
 
-- 📘 [Python for Data Science & AI](#)  
-- 📘 [Data Science Orientation](#)  
-- 📘 [Data Science Methodology](#)  
+- 📘 [Python for Data Science & AI](https://www.credly.com/badges/4c6c5cbf-96c4-4e95-b332-18ac9e615b1a)  
+- 📘 [Data Science Orientation](https://www.credly.com/badges/6f80781b-5cc6-4bc2-985c-32990836e40b)  
+- 📘 [Data Science Methodology](https://www.credly.com/badges/d65c3e18-e03f-4426-894e-b8c2d431c97e)  
 - 📘 [Tools for Data Science](https://www.credly.com/badges/83e63ac2-cff4-48e4-a053-9816b584ff65)  
-- 📘 [Databases and SQL for Data Science with Python](#)  
-- 📘 [Data Analysis with Python](#)  
-- 📘 [Data Visualization with Python](#)  
-- 📘 [Machine Learning with Python](#)
+- 📘 [Databases and SQL for Data Science with Python](https://www.credly.com/badges/0fd2af56-23b2-4b39-9103-698926036bf4)  
+- 📘 [Data Analysis with Python](https://www.credly.com/badges/2e31e086-5a3e-4b0a-ae66-c351eb212549)  
+- 📘 [Data Visualization with Python](https://www.credly.com/badges/f445a2fa-a072-42c3-a943-ff059a81c7ea)  
+- 📘 [Machine Learning with Python](https://www.credly.com/badges/9a738cd6-c4ee-4728-8322-7452e904d1ae)
 
 > Replace # with the actual certificate URLs when available.
 
