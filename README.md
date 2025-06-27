@@ -50,11 +50,10 @@
 
 #### 🏅 HackerRank Certificates
 
-- ✅ [Python (Basic)](#)
-- ✅ [SQL (Intermediate)](#)
-- ✅ [SQL (Basic)](#)
+- ✅ [Java (Basic)](https://www.hackerrank.com/certificates/a5121bec1bb5)
+- ✅ [SQL (Intermediate)](https://www.hackerrank.com/certificates/07eedaa52ab6)
+- ✅ [SQL (Basic)](https://www.hackerrank.com/certificates/635144ec7534)
 
-> Replace # with your actual HackerRank certificate URLs.
 
 ---
 
