@@ -72,11 +72,15 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:abhishekpal.074111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:pala23198@gmail.com"><img src="https://img.shields.io/badge/Email-2nd--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abhishek-pal-355b0231b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/p_abhishek4465?utm_source=qr&igsh=MWV0a3J2MDhoZXF5cw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/share/1BnijkSn9F/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-pal-355b0231b" target="_blank">
+    <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1BnijkSn9F/" target="_blank">
+    <img alt="Facebook" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/p_abhishek4465" target="_blank">
+    <img alt="Instagram" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
+  </a>
 </p>
 
 ---
