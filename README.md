@@ -38,7 +38,7 @@
 - 📘 [Python for Data Science & AI](#)  
 - 📘 [Data Science Orientation](#)  
 - 📘 [Data Science Methodology](#)  
-- 📘 [Tools for Data Science](#)  
+- 📘 [Tools for Data Science](https://www.credly.com/badges/83e63ac2-cff4-48e4-a053-9816b584ff65)  
 - 📘 [Databases and SQL for Data Science with Python](#)  
 - 📘 [Data Analysis with Python](#)  
 - 📘 [Data Visualization with Python](#)  
