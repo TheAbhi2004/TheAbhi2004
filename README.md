@@ -54,12 +54,14 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAbhi2004&show_icons=true&theme=radical&hide=prs)  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAbhi2004&layout=compact&theme=radical)  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=TheAbhi2004&theme=radical)  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=TheAbhi2004&theme=radical)
+  
 </div>
 
 ---
