@@ -9,8 +9,8 @@
 ### 🔍 About Me
 
 - 👨‍💻 Passionate about solving real-world problems using data  
-- 🧠 Currently completing the *IBM Data Science Professional Certificate*  
-- ✅ Earned certificates in Python, Data Science Orientation, Methodology, SQL & more  
+- 🧠 Currently completing the IBM Data Science Professional Certificate  
+- ✅ Earned certificates in Python, SQL, Data Science Orientation, Methodology, and Visualization  
 - 📈 Love transforming raw data into impactful business insights  
 - 💬 Ask me about Python, data analysis, ML models, or getting started in data science  
 
@@ -18,16 +18,20 @@
 
 ### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C65A8?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -44,7 +48,13 @@
 - 📘 [Data Visualization with Python](https://www.credly.com/badges/f445a2fa-a072-42c3-a943-ff059a81c7ea)  
 - 📘 [Machine Learning with Python](https://www.credly.com/badges/9a738cd6-c4ee-4728-8322-7452e904d1ae)
 
-> Replace # with the actual certificate URLs when available.
+#### 🏅 HackerRank Certificates
+
+- ✅ [Python (Basic)](#)
+- ✅ [SQL (Intermediate)](#)
+- ✅ [SQL (Basic)](#)
+
+> Replace # with your actual HackerRank certificate URLs.
 
 ---
 
@@ -62,12 +72,13 @@
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-pal-355b0231b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📷 [Instagram](https://www.instagram.com/p_abhishek4465?utm_source=qr&igsh=MWV0a3J2MDhoZXF5cw==)
-- 👤 [Facebook](https://www.facebook.com/share/1BnijkSn9F/)
-- 📧 Emails:  
-  - abhishekpal.074111@gmail.com  
-  - pala23198@gmail.com
+<p align="center">
+  <a href="mailto:abhishekpal.074111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:pala23198@gmail.com"><img src="https://img.shields.io/badge/Email-2nd--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-pal-355b0231b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/p_abhishek4465?utm_source=qr&igsh=MWV0a3J2MDhoZXF5cw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/1BnijkSn9F/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
