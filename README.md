@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Pal
 
-🎓 B.Tech in Information Technology from Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar  
+🎓 Pursuing B.Tech in Information Technology from Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar  
 📊 Aspiring Data Scientist | Ongoing IBM Data Science Certification  
 📍 Kolkata, India | 🌱 Currently learning: Deep Learning, NLP, and Advanced Analytics  
 
