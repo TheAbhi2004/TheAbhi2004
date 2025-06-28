@@ -10,7 +10,7 @@
 
 - 👨‍💻 Passionate about solving real-world problems using data  
 - 🧠 Currently completing the IBM Data Science Professional Certificate  
-- ✅ Earned certificates in Python, SQL, Data Science Orientation, Methodology, and Visualization  
+- ✅ Earned certificates in Python, SQL, Data Science Orientation, Methodology, Visualization, Data Analysis, Machine Learning and many more
 - 📈 Love transforming raw data into impactful business insights  
 - 💬 Ask me about Python, data analysis, ML models, or getting started in data science  
 
