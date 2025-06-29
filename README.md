@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Abhishek Pal
 
 🎓 Pursuing B.Tech in Information Technology from Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar  
-📊 Aspiring Data Scientist | Ongoing IBM Data Science Certification  
-📍 Kolkata, India | 🌱 Currently learning: Deep Learning, NLP, and Advanced Analytics  
+📊 Aspiring Data Scientist | Completed IBM Data Science Professional Certificate  
+📍 Kolkata, India | 🌱 Currently exploring: Deep Learning, NLP, and Advanced Analytics  
 
 ---
 
 ### 🔍 About Me
 
 - 👨‍💻 Passionate about solving real-world problems using data  
-- 🧠 Currently completing the IBM Data Science Professional Certificate  
-- ✅ Earned certificates in Python, SQL, Data Science Orientation, Methodology, Visualization, Data Analysis, Machine Learning and many more
-- 📈 Love transforming raw data into impactful business insights  
-- 💬 Ask me about Python, data analysis, ML models, or getting started in data science  
+- 🏆 Successfully completed the *IBM Data Science Professional Certificate*  
+- ✅ Certified in Python, SQL, Data Science Methodology, Visualization, Data Analysis, Machine Learning, and more  
+- 📈 I love transforming raw data into impactful business insights  
+- 💬 Ask me about Python, data analysis, ML models, or how to get started in data science  
 
 ---
 
@@ -37,17 +37,26 @@
 
 ### 📜 Certifications
 
-#### 🎓 IBM Data Science – Individual Course Certificates
-- 📘 [Python for Data Science & AI](https://www.credly.com/badges/4c6c5cbf-96c4-4e95-b332-18ac9e615b1a)  
-- 📘 [Data Science Orientation](https://www.credly.com/badges/6f80781b-5cc6-4bc2-985c-32990836e40b)  
-- 📘 [Data Science Methodology](https://www.credly.com/badges/d65c3e18-e03f-4426-894e-b8c2d431c97e)  
-- 📘 [Tools for Data Science](https://www.credly.com/badges/83e63ac2-cff4-48e4-a053-9816b584ff65)  
-- 📘 [Databases and SQL for Data Science with Python](https://www.credly.com/badges/0fd2af56-23b2-4b39-9103-698926036bf4)  
-- 📘 [Data Analysis with Python](https://www.credly.com/badges/2e31e086-5a3e-4b0a-ae66-c351eb212549)  
-- 📘 [Data Visualization with Python](https://www.credly.com/badges/f445a2fa-a072-42c3-a943-ff059a81c7ea)  
-- 📘 [Machine Learning with Python](https://www.credly.com/badges/9a738cd6-c4ee-4728-8322-7452e904d1ae)  
+#### 🧠 IBM Data Science Professional Certificate – ✅ *Completed*
 
-#### 🏅 HackerRank Certificates
+- 🏅 [IBM Data Science Professional Certificate (Main Credential)](https://www.coursera.org/account/accomplishments/specialization/4DZHNXJH3QII)  
+
+*Individual Courses:*
+- 📘 [Python for Data Science,AI & Development](https://www.coursera.org/account/accomplishments/records/MMKGG88OO00V)  
+- 📘 [What is Data Science?](https://www.coursera.org/account/accomplishments/records/BSY1AMFLI377)  
+- 📘 [Data Science Methodology](https://www.coursera.org/account/accomplishments/records/FZI9AIAT0U58)  
+- 📘 [Tools for Data Science](https://www.coursera.org/account/accomplishments/records/54BB8XBWEP42)  
+- 📘 [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/records/2Y7R9527UONZ)  
+- 📘 [Data Analysis with Python](https://www.coursera.org/account/accomplishments/records/3P9UVP1IAORA)  
+- 📘 [Data Visualization with Python](https://www.coursera.org/account/accomplishments/records/LY2IVEM3IK46)  
+- 📘 [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/DT13RZ8HGUB1)  
+- 📘 [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/records/VPX21VIBB5J5)
+- 📘 [Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/H8KIL569QQMX)
+- 📘 [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/records/H7O0U7PU8NXR)
+- 📘 [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/records/Q4DC6WZHHV68)
+
+#### 🏅 HackerRank Certifications
+
 - ✅ [Java (Basic)](https://www.hackerrank.com/certificates/a5121bec1bb5)  
 - ✅ [SQL (Intermediate)](https://www.hackerrank.com/certificates/07eedaa52ab6)  
 - ✅ [SQL (Basic)](https://www.hackerrank.com/certificates/635144ec7534)  
